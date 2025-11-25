@@ -20,7 +20,7 @@
     <itunes:category text="Society & Culture" />
     <itunes:explicit>false</itunes:explicit>
 
-    <!-- <itunes:image href="https://chelever.github.io/pautavindo/capa.jpg" /> -->
+    <itunes:image href="https://chelever.github.io/pautavindo/capa.jpg" />
 
     <!-- EPISÓDIO 1 -->
     <item>
