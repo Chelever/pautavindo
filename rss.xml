@@ -1,39 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 
   <channel>
     <!-- Info base -->
     <title>Pauta Vindo</title>
     <link>https://chelever.github.io/pautavindo/</link>
-    <atom:link href="https://Chelever.github.io/pautavindo/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chelever.github.io/pautavindo/rss.xml" rel="self" type="application/rss+xml"/>
     <description>Podcast Pauta Vindo — apresentado por Renan Nepomoceno Pinto.</description>
     <language>pt-BR</language>
+    <copyright>© 2024 Pauta Vindo</copyright>
+    <lastBuildDate>Mon, 25 Nov 2024 12:00:00 GMT</lastBuildDate>
+    <generator>Custom RSS Feed</generator>
 
     <!-- Info Apple Podcasts / Spotify -->
     <itunes:author>Renan Nepomoceno Pinto</itunes:author>
+    <itunes:summary>Podcast Pauta Vindo — apresentado por Renan Nepomoceno Pinto.</itunes:summary>
     <itunes:owner>
       <itunes:name>Renan Nepomoceno Pinto</itunes:name>
       <itunes:email>renannp1@hotmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Society & Culture" />
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Society & Culture"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://chelever.github.io/pautavindo/capa.jpeg"/>
+    <itunes:type>episodic</itunes:type>
 
-    <itunes:image href="https://chelever.github.io/pautavindo/capa.jpeg" />
+    <!-- Google Play/YouTube Music -->
+    <googleplay:author>Renan Nepomoceno Pinto</googleplay:author>
+    <googleplay:description>Podcast Pauta Vindo — apresentado por Renan Nepomoceno Pinto.</googleplay:description>
+    <googleplay:image href="https://chelever.github.io/pautavindo/capa.jpeg"/>
+    <googleplay:explicit>no</googleplay:explicit>
+    <googleplay:category text="Society & Culture"/>
+
+    <!-- Imagem padrão para outras plataformas -->
+    <image>
+      <url>https://chelever.github.io/pautavindo/capa.jpeg</url>
+      <title>Pauta Vindo</title>
+      <link>https://chelever.github.io/pautavindo/</link>
+    </image>
 
     <!-- EPISÓDIO 1 -->
     <item>
       <title>Piloto</title>
       <description>Episódio piloto do podcast Pauta Vindo.</description>
+      <content:encoded><![CDATA[Episódio piloto do podcast Pauta Vindo.]]></content:encoded>
+      
       <enclosure
-        url="https://Chelever.github.io/pautavindo/pautavindo_ep001.mp3"
-        length="0"
-        type="audio/mpeg" />
+        url="https://chelever.github.io/pautavindo/pautavindo_ep001.mp3"
+        length="42749873"
+        type="audio/mpeg"/>
+      
       <guid isPermaLink="false">pautavindo-ep001</guid>
-      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 GMT</pubDate>
+      
+      <!-- Metadados do iTunes -->
+      <itunes:title>Piloto</itunes:title>
+      <itunes:author>Renan Nepomoceno Pinto</itunes:author>
+      <itunes:summary>Episódio piloto do podcast Pauta Vindo.</itunes:summary>
+      <itunes:subtitle>Episódio piloto do podcast Pauta Vindo.</itunes:subtitle>
+      <itunes:duration>00:15:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://chelever.github.io/pautavindo/capa.jpeg"/>
+      
+      <!-- Google Play -->
+      <googleplay:description>Episódio piloto do podcast Pauta Vindo.</googleplay:description>
+      <googleplay:explicit>no</googleplay:explicit>
     </item>
 
   </channel>
 </rss>
-
