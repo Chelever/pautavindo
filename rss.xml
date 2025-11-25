@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <!-- Info base -->
+    <title>Pauta Vindo</title>
+    <link>https://chelever.github.io/pautavindo/</link>
+    <atom:link href="https://Chelever.github.io/pautavindo/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Podcast Pauta Vindo — apresentado por Renan Nepomoceno Pinto.</description>
+    <language>pt-BR</language>
+
+    <!-- Info Apple Podcasts / Spotify -->
+    <itunes:author>Renan Nepomoceno Pinto</itunes:author>
+    <itunes:owner>
+      <itunes:name>Renan Nepomoceno Pinto</itunes:name>
+      <itunes:email>renannp1@hotmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Society & Culture" />
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- <itunes:image href="https://chelever.github.io/pautavindo/capa.jpg" /> -->
+
+    <!-- EPISÓDIO 1 -->
+    <item>
+      <title>Piloto</title>
+      <description>Episódio piloto do podcast Pauta Vindo.</description>
+      <enclosure
+        url="https://Chelever.github.io/pautavindo/pautavindo_ep001.mp3"
+        length="0"
+        type="audio/mpeg" />
+      <guid isPermaLink="false">pautavindo-ep001</guid>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
+
