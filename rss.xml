@@ -8,10 +8,10 @@
     <title>Pauta Vindo</title>
     <link>https://chelever.github.io/pautavindo/</link>
     <atom:link href="https://chelever.github.io/pautavindo/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Podcast Pauta Vindo — apresentado por Renan Nepomoceno Pinto.</description>
+    <description>Podcast Pauta Vindo — apresentado por Renan Nepomoceno Pinto e Guilherme Trauer.</description>
     <language>pt-BR</language>
 
-    <itunes:author>Renan Nepomoceno Pinto</itunes:author>
+    <itunes:author>Renan Nepomoceno Pinto e Guilherme Trauer</itunes:author>
 
     <itunes:owner>
       <itunes:name>Renan Nepomoceno Pinto</itunes:name>
@@ -26,8 +26,9 @@
     <itunes:image href="https://chelever.github.io/pautavindo/capa.jpeg" />
 
     <item>
-      <title>Piloto</title>
+      <title>Pauta Vindo #1 - Quarteto Fantástico Primeiros Passos</title>
       <description>Episódio piloto do podcast Pauta Vindo.</description>
+      <description>No episódio de estreia do Pauta Vindo, mergulhamos na origem do Quarteto Fantástico! Discutimos as coisas que achamos boas e ruins do filme e também as coisas que acreditamos serem falhas no roteiro o que causa momentos engraçados no decorrer do filme. Analisamos a criação de Stan Lee e Jack Kirby e o impacto no MCU e, por fim, especulamos sobre o futuro dos filmes da Marvel.</description>
 
       <enclosure
         url="https://chelever.github.io/pautavindo/pautavindo_ep001.mp3"
