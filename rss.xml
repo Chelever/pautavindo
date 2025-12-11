@@ -23,7 +23,7 @@
 
     <itunes:explicit>false</itunes:explicit>
 
-    <itunes:image href="https://chelever.github.io/pautavindo/capa.jpeg" />
+    <itunes:image href="https://chelever.github.io/pautavindo/capa.png" />
 
     <item>
       <title>Pauta Vindo #1 - Quarteto Fantástico Primeiros Passos</title>
@@ -37,6 +37,21 @@
 
       <guid isPermaLink="false">pautavindo-ep001</guid>
       <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Pauta Vindo #2 - Creepypasta</title>
+      <description>No segundo episódio do Pauta Vindo, viajamos de volta aos anos 2000 para revisitar a era dourada das creepypastas. Comentamos algumas das histórias mais marcantes da época e exploramos como essa cultura influenciou obras modernas — incluindo o enigmático jogo myHouse.wad, que bebe diretamente dessa estética e desse imaginário online.</description>
+
+      <enclosure
+        url="https://chelever.github.io/pautavindo/pautavindo_ep002.mp3"
+        length="0"
+        type="audio/mpeg" />
+        
+      <itunes:image href="https://chelever.github.io/pautavindo/thumb_ep002.png" />
+
+      <guid isPermaLink="false">pautavindo-ep002</guid>
+      <pubDate>Tue, 11 Dec 2025 12:00:00 GMT</pubDate>
     </item>
 
   </channel>
