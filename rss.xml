@@ -54,6 +54,21 @@
       <pubDate>Tue, 11 Dec 2025 12:00:00 GMT</pubDate>
     </item>
 
+    <item>
+      <title>Pauta Vindo #3 - Alan Wake</title>
+      <description>No terceiro episódio do Pauta Vindo, navegamos pelo mundo onírico de Alan Wake. Comentamos sobre seu desenvolvimento, referências e contamos a história do jogo do começo ao fim.</description>
+
+      <enclosure
+        url="https://chelever.github.io/pautavindo/pautavindo_ep003.mp3"
+        length="0"
+        type="audio/mpeg" />
+        
+      <itunes:image href="https://chelever.github.io/pautavindo/thumb_ep003.png" />
+
+      <guid isPermaLink="false">pautavindo-ep003</guid>
+      <pubDate>Tue, 27 Dec 2025 12:00:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
 
