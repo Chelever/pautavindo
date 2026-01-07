@@ -69,6 +69,21 @@
       <pubDate>Tue, 27 Dec 2025 12:00:00 GMT</pubDate>
     </item>
 
+    <item>
+      <title>Pauta Vindo #4 - Interestelar</title>
+      <description>No quarto episódio do Pauta Vindo, a gente conversa sobre Interestelar, do Christopher Nolan. Falamos do filme, das ideias malucas que ele levanta… e, principalmente, erramos bastante quando tentamos explicar física.</description>
+
+      <enclosure
+        url="https://chelever.github.io/pautavindo/pautavindo_ep004.mp3"
+        length="0"
+        type="audio/mpeg" />
+        
+      <itunes:image href="https://chelever.github.io/pautavindo/thumb_ep004.png" />
+
+      <guid isPermaLink="false">pautavindo-ep004</guid>
+      <pubDate>Wed, 01 Jan 2026 12:00:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
 
