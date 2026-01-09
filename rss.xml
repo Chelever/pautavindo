@@ -6,8 +6,8 @@
   <channel>
 
     <title>Pauta Vindo</title>
-    <link>https://chelever.github.io/pautavindo/</link>
-    <atom:link href="https://chelever.github.io/pautavindo/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://pautavindo.com/</link>
+    <atom:link href="https://pautavindo.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Podcast Pauta Vindo — apresentado por Renan Nepomoceno Pinto e Guilherme Trauer, discutimos video games, filmes, séries e quaisquer outros conteúdos que julgarmos interessante.</description>
     <language>pt-BR</language>
 
@@ -23,7 +23,7 @@
 
     <itunes:explicit>false</itunes:explicit>
 
-    <itunes:image href="https://chelever.github.io/pautavindo/capa.png" />
+    <itunes:image href="https://pautavindo.com/capa.png" />
 
     <item>
       <title>Pauta Vindo #1 - Quarteto Fantástico Primeiros Passos</title>
@@ -31,7 +31,7 @@
       <description>No episódio de estreia do Pauta Vindo, mergulhamos na origem do Quarteto Fantástico! Discutimos as coisas que achamos boas e ruins do filme e também as coisas que acreditamos serem falhas no roteiro o que causa momentos engraçados no decorrer do filme. Analisamos a criação de Stan Lee e Jack Kirby e o impacto no MCU e, por fim, especulamos sobre o futuro dos filmes da Marvel.</description>
 
       <enclosure
-        url="https://chelever.github.io/pautavindo/pautavindo_ep001.mp3"
+        url="https://pautavindo.com/pautavindo_ep001.mp3"
         length="0"
         type="audio/mpeg" />
 
@@ -44,11 +44,11 @@
       <description>No segundo episódio do Pauta Vindo, viajamos de volta aos anos 2000 para revisitar a era dourada das creepypastas. Comentamos algumas das histórias mais marcantes da época e exploramos como essa cultura influenciou obras modernas — incluindo o enigmático jogo myHouse.wad, que bebe diretamente dessa estética e desse imaginário online.</description>
 
       <enclosure
-        url="https://chelever.github.io/pautavindo/pautavindo_ep002.mp3"
+        url="https://pautavindo.com/pautavindo_ep002.mp3"
         length="0"
         type="audio/mpeg" />
         
-      <itunes:image href="https://chelever.github.io/pautavindo/thumb_ep002.png" />
+      <itunes:image href="https://pautavindo.com/thumb_ep002.png" />
 
       <guid isPermaLink="false">pautavindo-ep002</guid>
       <pubDate>Tue, 11 Dec 2025 12:00:00 GMT</pubDate>
@@ -59,11 +59,11 @@
       <description>No terceiro episódio do Pauta Vindo, navegamos pelo mundo onírico de Alan Wake. Comentamos sobre seu desenvolvimento, referências e contamos a história do jogo do começo ao fim.</description>
 
       <enclosure
-        url="https://chelever.github.io/pautavindo/pautavindo_ep003.mp3"
+        url="https://pautavindo.com/pautavindo_ep003.mp3"
         length="0"
         type="audio/mpeg" />
         
-      <itunes:image href="https://chelever.github.io/pautavindo/thumb_ep003.png" />
+      <itunes:image href="https://pautavindo.com/thumb_ep003.png" />
 
       <guid isPermaLink="false">pautavindo-ep003</guid>
       <pubDate>Tue, 27 Dec 2025 12:00:00 GMT</pubDate>
@@ -74,11 +74,11 @@
       <description>No quarto episódio do Pauta Vindo, a gente conversa sobre Interestelar, do Christopher Nolan. Falamos do filme, das ideias malucas que ele levanta… e, principalmente, erramos bastante quando tentamos explicar física.</description>
 
       <enclosure
-        url="https://chelever.github.io/pautavindo/pautavindo_ep004.mp3"
+        url="https://pautavindo.com/pautavindo_ep004.mp3"
         length="0"
         type="audio/mpeg" />
         
-      <itunes:image href="https://chelever.github.io/pautavindo/thumb_ep004.png" />
+      <itunes:image href="https://pautavindo.com/thumb_ep004.png" />
 
       <guid isPermaLink="false">pautavindo-ep004</guid>
       <pubDate>Wed, 01 Jan 2026 12:00:00 GMT</pubDate>
