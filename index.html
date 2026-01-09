@@ -1,10 +1,111 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>Pauta Vindo</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pauta Vindo Podcast</title>
+  <style>
+    :root {
+      --bg-main: #0b1c2d;
+      --bg-card: #101b33;
+      --neon-pink: #ff3fb4;
+      --neon-blue: #27d8ff;
+      --text-main: #e6f7ff;
+      --text-muted: #9fb3c8;
+    }
+
+    * {
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: radial-gradient(circle at top, #143b5c, var(--bg-main));
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 420px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .logo {
+      width: 100%;
+      border-radius: 24px;
+      border: 4px solid var(--neon-pink);
+      box-shadow: 0 0 30px rgba(255, 63, 180, 0.35);
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      margin: 8px 0 4px;
+      font-size: 2rem;
+      color: var(--neon-blue);
+      text-shadow: 0 0 10px rgba(39, 216, 255, 0.6);
+    }
+
+    p {
+      margin: 0 0 24px;
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+
+    .links {
+      display: grid;
+      gap: 14px;
+    }
+
+    .link {
+      display: block;
+      padding: 14px;
+      background: linear-gradient(135deg, var(--neon-blue), var(--neon-pink));
+      color: #05131f;
+      text-decoration: none;
+      font-weight: 700;
+      border-radius: 14px;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+    }
+
+    .link:hover {
+      transform: translateY(-2px) scale(1.01);
+      box-shadow: 0 10px 26px rgba(0, 0, 0, 0.45);
+    }
+
+    footer {
+      margin-top: 24px;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      opacity: 0.8;
+    }
+  </style>
 </head>
 <body>
-  <h1>Meu site está no ar 🚀</h1>
+  <main class="container">
+    <!-- Coloque a imagem da capa como capa.png no mesmo diretório -->
+    <img src="https://pautavindo.com/capa.png" alt="Capa do podcast Pauta Vindo" class="logo" />
+
+    <!-- <h1>Pauta Vindo</h1> -->
+    <p>Um podcast sobre jogos, filmes, ideias e tudo que rende uma boa pauta.</p>
+
+    <div class="links">
+      <a class="link" href="https://open.spotify.com/show/6pfLl3Ku5Tilmexax7cE8R" target="_blank">🎧 Ouvir no Spotify</a>
+      <a class="link" href="https://podcasts.apple.com/br/podcast/pauta-vindo/id1856047625" target="_blank">🍎 Apple Podcasts</a>
+      <a class="link" href="https://music.amazon.com.br/podcasts/1f11e4cd-3f00-4abe-a188-1a377a031449/pauta-vindo" target="_blank">🛒 Amazon Music</a>
+      <a class="link" href="https://music.youtube.com/channel/UCnOH8mMdq1dE0jDLlPHMSfA" target="_blank">▶️ YouTube Music</a>
+      <a class="link" href="https://www.deezer.com/br/show/1002402342" target="_blank">💿 Deezer</a>
+    </div>
+
+    <footer>
+      © Pauta Vindo — todos os direitos reservados
+    </footer>
+  </main>
 </body>
 </html>
