@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
 
   <channel>
 
@@ -82,6 +83,24 @@
 
       <guid isPermaLink="false">pautavindo-ep004</guid>
       <pubDate>Wed, 01 Jan 2026 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Pauta Vindo #5 - Killer Frequency</title>
+      <description>No quinto episódio do Pauta Vindo, a gente conversa sobre o jogo Killer Frequency. Falamos com spoilers dos eventos do jogo, curiosidades e referências.</description>
+
+      <enclosure
+        url="https://pautavindo.com/pautavindo_ep005.mp3"
+        length="0"
+        type="audio/mpeg" />
+        
+      <itunes:image href="https://pautavindo.com/thumb_ep005.png" />
+      <podcast:chapters
+        url="https://pautavindo.com/chapters/pautavindo_ep005.json"
+        type="application/json" />
+
+      <guid isPermaLink="false">pautavindo-ep005</guid>
+      <pubDate>Mon, 19 Jan 2026 20:00:00 GMT</pubDate>
     </item>
 
   </channel>

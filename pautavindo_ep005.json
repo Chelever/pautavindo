@@ -1,0 +1,22 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    { "startTime": 0, "title": "Intro" },
+    { "startTime": 35.015806, "title": "Team 17" },
+    { "startTime": 345.431997, "title": "Intro do Jogo" },
+    { "startTime": 727.874565, "title": "Primeiro Caso - Leslie" },
+    { "startTime": 1129.378229, "title": "Segundo Caso - Sandra" },
+    { "startTime": 1455.507314, "title": "Terceiro Caso - Maurice" },
+    { "startTime": 2013.200874, "title": "Quarto Caso - Dra. Sullivan" },
+    { "startTime": 2799.746273, "title": "Quinto Caso - Eugene" },
+    { "startTime": 2995.119092, "title": "Sexto Caso - Murphy" },
+    { "startTime": 3435.7219, "title": "Sétimo Caso - Adolescentes" },
+    { "startTime": 3692.512089, "title": "Oitavo Caso - Aurora" },
+    { "startTime": 4076.181485, "title": "Nono Caso - Chuck" },
+    { "startTime": 4455.014551, "title": "Décimo Caso - Rick Patiny" },
+    { "startTime": 4755.225061, "title": "Décimo Primeiro Caso - Casey + Jason" },
+    { "startTime": 5134.426865, "title": "Desfecho" },
+    { "startTime": 5596.917227, "title": "Curiosidades e Nota Final" }
+  ]
+}
+
