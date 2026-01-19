@@ -96,7 +96,7 @@
         
       <itunes:image href="https://pautavindo.com/thumb_ep005.png" />
       <podcast:chapters
-        url="https://pautavindo.com/chapters/pautavindo_ep005.json"
+        url="https://pautavindo.com/pautavindo_ep005.json"
         type="application/json" />
 
       <guid isPermaLink="false">pautavindo-ep005</guid>
