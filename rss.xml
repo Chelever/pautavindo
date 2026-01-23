@@ -123,6 +123,48 @@
       <pubDate>Mon, 19 Jan 2026 20:00:00 GMT</pubDate>
     </item>
 
+
+    <title>Pauta Vindo #6 - Previsões 2026: Jogos e Filmes</title>
+    <description>
+    No sexto episódio do Pauta Vindo, discutimos o que nos aguarda em 2026. De remakes inesperados a filmes que ninguém aguenta mais (ou aguenta?), passamos o pente fino nas promessas da indústria.
+
+    FILMES EM PAUTA:
+    - Super Girl e o novo Homem-Aranha
+    - Vingadores: Doomsday
+    - Silent Hill
+    - O novo filme do Mario
+    - Devorador de Estrelas
+    - Street Fighter
+    - A Odisseia de Christopher Nolan
+
+    JOGOS EM PAUTA:
+    - GTA 6 (o pequeno notável)
+    - Nioh 3 e 
+    - Resident Evil Requiem
+    - Crimson Desert
+    - Phantom Blade 0
+    - Pragmata.
+    - Wolverine
+    - Marvel Rise of Hydra
+    - Control Resonant
+    - Remake de Tomb Raider
+    - The Duskblood para Switch 2
+    </description>
+
+      <enclosure
+        url="https://pautavindo.com/pautavindo_ep006.mp3"
+        length="0"
+        type="audio/mpeg" />
+        
+      <itunes:image href="https://pautavindo.com/thumb_ep006.png" />
+      <podcast:chapters
+        url="https://pautavindo.com/pautavindo_ep006.json"
+        type="application/json" />
+
+      <guid isPermaLink="false">pautavindo-ep006</guid>
+      <pubDate>Sun, 25 Jan 2026 12:00:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
 
