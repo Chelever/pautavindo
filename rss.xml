@@ -157,12 +157,9 @@
         type="audio/mpeg" />
         
       <itunes:image href="https://pautavindo.com/thumb_ep006.png" />
-      <podcast:chapters
-        url="https://pautavindo.com/pautavindo_ep006.json"
-        type="application/json" />
 
       <guid isPermaLink="false">pautavindo-ep006</guid>
-      <pubDate>Sun, 25 Jan 2026 12:00:00 GMT</pubDate>
+      <pubDate>Sat, 24 Jan 2026 12:00:00 GMT</pubDate>
     </item>
 
   </channel>
