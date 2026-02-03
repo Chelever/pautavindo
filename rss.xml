@@ -162,6 +162,39 @@
         <pubDate>Sat, 24 Jan 2026 12:00:00 GMT</pubDate>
       </item>
 
+    <item>
+      <title>Pauta Vindo #7 - Resident Evil Requiem Showcase e Dead Letter Dept</title>
+      <description>
+      No sétimo episódio do Pauta Vindo, começamos comentando tudo o que chamou atenção no showcase de Resident Evil Requiem.
+      Na segunda parte, entramos com spoilers em uma conversa mais profunda sobre o incrível Dead Letter Dept, analisando atmosfera, narrativa e impacto do jogo.
+
+
+
+
+      00:00 Introdução
+      01:02 Showcase de Resident Evil Requiem
+      09:00 Poster Avengers Dooms Day
+      11:34 Dead Letter Department - Mike Monroe
+      14:31 Ambientação
+      16:59 Início do Jogo
+      20:33 Primeira Noite
+      26:07 Segundo dia
+      31:55 Cartas
+      42:35 Finais
+      47:56 Considerações finais
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep007.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep007.png" />
+
+        <guid isPermaLink="false">pautavindo-ep007</guid>
+        <pubDate>Wed, 4 Feb 2026 11:00:00 GMT</pubDate>
+      </item>
+
   </channel>
 </rss>
 
