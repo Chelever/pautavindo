@@ -195,6 +195,40 @@
         <pubDate>Wed, 4 Feb 2026 11:00:00 GMT</pubDate>
       </item>
 
+
+    <item>
+      <title>Pauta Vindo #8 - O Iluminado</title>
+      <description>
+      No oitavo episódio do Pauta Vindo, começamos falando um pouco sobre os filmes que mais gostamos.
+      Na segunda parte, entramos com spoilers em uma conversa mais profunda sobre o clássico de Stanley Kubrick e Stephen King, O Iluminado.
+
+
+
+
+      00:00 Introdução
+      01:02 Showcase de Resident Evil Requiem
+      09:00 Poster Avengers Dooms Day
+      11:34 Dead Letter Department - Mike Monroe
+      14:31 Ambientação
+      16:59 Início do Jogo
+      20:33 Primeira Noite
+      26:07 Segundo dia
+      31:55 Cartas
+      42:35 Finais
+      47:56 Considerações finais
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep008.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep008.png" />
+
+        <guid isPermaLink="false">pautavindo-ep008</guid>
+        <pubDate>Wed, 10 Feb 2026 11:00:00 GMT</pubDate>
+      </item>
+
   </channel>
 </rss>
 
