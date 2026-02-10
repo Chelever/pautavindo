@@ -19,8 +19,7 @@
       <itunes:email>renannp1@hotmail.com</itunes:email>
     </itunes:owner>
 
-    <!-- Categoria usando &amp; corretamente -->
-    <itunes:category text="Society &amp; Culture"></itunes:category>
+    <itunes:category text="Jogos &amp; Filmes"></itunes:category>
 
     <itunes:explicit>false</itunes:explicit>
 
