@@ -19,7 +19,10 @@
       <itunes:email>renannp1@hotmail.com</itunes:email>
     </itunes:owner>
 
-    <itunes:category text="Jogos &amp; Filmes"></itunes:category>
+    <itunes:category text="Leisure">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:category text="TV &amp; Film"/>
 
     <itunes:explicit>false</itunes:explicit>
 
@@ -230,6 +233,60 @@
 
         <guid isPermaLink="false">pautavindo-ep008</guid>
         <pubDate>Wed, 10 Feb 2026 11:00:00 GMT</pubDate>
+      </item>
+
+
+    <item>
+      <title>Pauta Vindo #9 - Dredge</title>
+      <description>
+No 9º episódio do Pauta Vindo, fazemos uma análise completa com spoilers de Dredge, jogo de pescaria com elementos de terror cósmico publicado pela Team17 e fortemente inspirado na obra do escritor H.P. Lovecraft. Comentamos a história, atmosfera, mecânicas, finais e as principais referências lovecraftianas presentes no game.
+
+Ideal para quem já zerou o jogo ou quer entender todos os detalhes da narrativa e seus significados ocultos.
+
+
+
+
+#Dredge
+#DredgeGame
+#DredgeReview
+#DredgeSpoilers
+#Team17
+#HPLovecraft
+#TerrorCosmico
+#CosmicHorror
+#IndieGame
+#JogoIndie
+#AnaliseDeJogo
+#PodcastGamer
+#LoreDeJogos
+#HistoriaDosGames
+#FishingHorror
+#JogosDeTerror
+#PautaVindo
+
+
+
+00:00 Intro
+00:58 Início do jogo
+06:19 Personagens
+13:53 Primeira missão
+22:14 A Bacia Estelar
+30:16 Pântano Retorcido
+36:34 Espinha do Diabo e reviravolta
+43:56 Revelação
+50:08 Considerações finais
+
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep009.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep009.png" />
+
+        <guid isPermaLink="false">pautavindo-ep009</guid>
+        <pubDate>Fri, 20 Feb 2026 13:00:00 GMT</pubDate>
       </item>
 
   </channel>
