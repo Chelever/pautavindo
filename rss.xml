@@ -289,6 +289,61 @@ Ideal para quem já zerou o jogo ou quer entender todos os detalhes da narrativa
         <pubDate>Fri, 20 Feb 2026 13:00:00 GMT</pubDate>
       </item>
 
+
+    <item>
+      <title>Pauta Vindo #10 – Tudo antes de Resident Evil Requiem</title>
+      <description>
+o 10º episódio do Pauta Vindo, mergulhamos na história completa de Resident Evil, dos incidentes em Raccoon City às conspirações globais da Umbrella, para deixar você totalmente preparado para Resident Evil Requiem.
+
+Relembramos os eventos mais importantes, os personagens centrais e os momentos que definiram a franquia, conectando tudo ao que pode estar por vir no próximo capítulo.
+
+Se você quer entender a linha do tempo, as teorias e o que realmente importa antes de Requiem… esse episódio é obrigatório.
+
+
+
+
+#ResidentEvil
+#ResidentEvilRequiem
+#ResidentEvilLore
+#ResidentEvilHistoria
+#ResidentEvilTimeline
+#UmbrellaCorporation
+#RaccoonCity
+#SurvivalHorror
+#Capcom
+#JogosDeTerror
+#TerrorSurvival
+#AnaliseDeJogo
+#TeoriasResidentEvil
+#LoreDeJogos
+#HistoriaDosGames
+#PodcastGamer
+#PautaVindo
+
+
+
+00:00 Intro
+01:22 Resident Evil 0
+09:28 Resident Evil 1
+26:13 Resident Evil 2
+52:22 Resident Evil 3
+01:07:06 Resident Evil Outbreak
+01:22:05 Resumo Resident Evil 4, 5, 6, 7 e 8
+01:28:57 Considerações Finais
+
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep010.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep010.png" />
+
+        <guid isPermaLink="false">pautavindo-ep010</guid>
+        <pubDate>Fri, 25 Feb 2026 13:00:00 GMT</pubDate>
+      </item>
+
   </channel>
 </rss>
 
