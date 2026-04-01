@@ -449,6 +449,52 @@ Se você já terminou o jogo ou não se importa com spoilers, esse episódio é 
         <pubDate>Fri, 13 Mar 2026 13:00:00 GMT</pubDate>
       </item>
 
+<item>
+  <title>Pauta Vindo #13 – Iron Lung</title>
+  <description>
+No 13º episódio do Pauta Vindo, mergulhamos no terror claustrofóbico de Iron Lung, jogo desenvolvido por David Szymanski.
+
+Falamos sobre a proposta única do jogo, suas mecânicas minimalistas, a construção de tensão e o tipo de horror psicológico que ele entrega mesmo com uma apresentação simples. Também comentamos sobre o filme baseado em Iron Lung, a experiência de gameplay e como o jogo consegue ser tão impactante com tão pouco.
+
+Discutimos a história, o objetivo do jogador, o funcionamento das mecânicas e, claro, entramos na parte com spoilers para analisar mais a fundo os momentos mais marcantes.
+
+Se você curte jogos de terror diferentes e experiências intensas, esse episódio é pra você.
+
+#IronLung
+#DavidSzymanski
+#TerrorIndie
+#JogosDeTerror
+#SurvivalHorror
+#HorrorGame
+#PodcastGamer
+#PautaVindo
+
+
+00:00 Introdução
+00:50 Iron Lung - Filme
+02:35 Mecânica
+03:07 História
+06:54 Mecânicas
+10:46 Experiência de jogo
+12:36 Terror
+17:44 Objetivo do jogo
+18:36 Spoilers de Iron Lung
+19:48 Nota de Iron Lung
+21:11 Bônus
+
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep013.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep013.png" />
+
+        <guid isPermaLink="false">pautavindo-ep013</guid>
+        <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+      </item>
+
   </channel>
 </rss>
 
