@@ -495,6 +495,52 @@ Se você curte jogos de terror diferentes e experiências intensas, esse episód
         <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
       </item>
 
+
+<item>
+  <title>Pauta Vindo #14 – Crimson Desert</title>
+  <description>
+No 14º episódio do Pauta Vindo, falamos sobre o polêmico Crimson Desert, o novo jogo da Pearl Abyss.
+
+Falamos sobre as expectativas em torno do jogo, o histórico da desenvolvedora e as principais polêmicas. Discutimos os problemas encontrados, o tamanho e a escala do mapa, além dos sistemas e decisões de game design que moldam a experiência.
+
+Também abordamos a história sem spoilers, trazendo uma visão geral do que esperar da narrativa, e como o jogo se posiciona dentro do cenário atual dos jogos de mundo aberto.
+
+Se você está curioso sobre Crimson Desert ou quer entender melhor seus pontos fortes e fracos, esse episódio traz uma análise completa.
+
+#CrimsonDesert
+#PearlAbyss
+#OpenWorld
+#Jogos
+#GameDesign
+#AnaliseDeJogo
+#PodcastGamer
+#PautaVindo
+
+
+00:00 Introdução
+00:21 Intro
+01:49 Pearl Abyss
+03:49 Polêmicas
+16:31 Problemas
+38:48 Mapa e escala
+45:36 Sistemas e game design
+53:04 História (sem spoilers)
+
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep014.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep014.png" />
+
+        <guid isPermaLink="false">pautavindo-ep014</guid>
+        <pubDate>Mon, 06 Apr 2026 13:00:00 GMT</pubDate>
+      </item>
+
+
+
   </channel>
 </rss>
 
