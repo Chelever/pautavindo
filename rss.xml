@@ -604,7 +604,47 @@ Se você é fã de Zelda ou quer relembrar por que Ocarina of Time é considerad
         <guid isPermaLink="false">pautavindo-ep015</guid>
         <pubDate>Mon, 22 Apr 2026 13:00:00 GMT</pubDate>
       </item>
+<item>
+  <title>Pauta Vindo #16 – Pragmata (Sem Spoilers)</title>
+  <description>
+No 16º episódio do Pauta Vindo, falamos sobre Pragmata, a nova franquia da Capcom.
 
+Neste episódio sem spoilers, discutimos o desenvolvimento do jogo, sua premissa e os temas centrais, incluindo a relação entre os personagens Hugh e Diana e as narrativas que envolvem figuras parentais.
+
+Também analisamos a gameplay, as mecânicas apresentadas, além das competências técnicas, áudio e direção geral do projeto. Por fim damos a nossa nota.
+
+#Pragmata
+#Capcom
+#SciFi
+#Jogos
+#GameDesign
+#NovaIP
+#AnaliseSemSpoilers
+#PodcastGamer
+#PautaVindo
+
+
+00:00 Introdução
+00:39 Desenvolvimento
+05:16 Premissa do jogo
+10:17 Histórias de pai e filho
+12:58 Gameplay
+24:32 Hugh e Diana
+28:32 Competências técnicas e áudio
+36:04 Finalmentes
+
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep016.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep016.png" />
+
+        <guid isPermaLink="false">pautavindo-ep016</guid>
+        <pubDate>Tue, 05 May 2026 13:00:00 GMT</pubDate>
+      </item>
   </channel>
 </rss>
 
