@@ -645,6 +645,47 @@ Também analisamos a gameplay, as mecânicas apresentadas, além das competênci
         <guid isPermaLink="false">pautavindo-ep016</guid>
         <pubDate>Tue, 05 May 2026 13:00:00 GMT</pubDate>
       </item>
+
+<item>
+  <title>Pauta Vindo #17 – Mario 64</title>
+  <description>
+No 17º episódio do Pauta Vindo, viajamos de volta ao Nintendo 64 para falar sobre Mario 64, um dos jogos mais importantes da história dos videogames.
+
+Discutimos o contexto de desenvolvimento do jogo, as limitações e inovações do hardware do Nintendo 64, além das decisões de game design que ajudaram a definir o padrão dos jogos 3D modernos.
+
+#Mario64
+#SuperMario64
+#Nintendo64
+#Nintendo
+#RetroGaming
+#GameDesign
+#HistoriaDosGames
+#ShigeruMiyamoto
+#PodcastGamer
+#PautaVindo
+
+
+00:00 Introdução
+00:55 Contexto de desenvolvimento de software e hardware
+14:11 Moveset
+17:49 Fases
+25:28 Estrelas secretas
+31:44 Filho da Peach
+35:16 Considerações finais
+
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep017.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep017.png" />
+
+        <guid isPermaLink="false">pautavindo-ep017</guid>
+        <pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
+      </item>
+
   </channel>
 </rss>
 
