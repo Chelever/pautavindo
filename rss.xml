@@ -686,6 +686,51 @@ Discutimos o contexto de desenvolvimento do jogo, as limitações e inovações 
         <pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
       </item>
 
+<item>
+  <title>Pauta Vindo #18 – Diablo (Parte 1)</title>
+  <description>
+No 18º episódio do Pauta Vindo, começamos nossa série especial sobre Diablo, explorando a lore, o desenvolvimento e a evolução da franquia do primeiro jogo até Diablo III.
+
+Neste primeiro episódio, falamos sobre David Brevik e a criação da Blizzard North, o impacto revolucionário de Diablo no PC gaming e as memórias que marcaram o primeiro jogo da franquia.
+
+Também mergulhamos na lore do universo de Diablo, passando pela Guerra dos Céus e Infernos, a origem dos Nephalem e a história de Uldyssian, um dos personagens mais importantes da mitologia da série.
+
+Se você gosta de ARPGs, história dos games ou quer entender o universo sombrio de Diablo, essa série é pra você.
+
+#Diablo
+#Diablo1
+#Blizzard
+#DavidBrevik
+#ARPG
+#LoreDiablo
+#DiabloLore
+#BlizzardNorth
+#HistoriaDosGames
+#PodcastGamer
+#PautaVindo
+
+
+00:00 Introdução
+00:48 David Brevik
+16:27 Nostalgia Diablo 1
+21:47 Lore
+29:03 Os Nephalem e a Guerra do Inferno
+32:28 Uldyssian
+
+      </description>
+
+        <enclosure
+          url="https://pautavindo.com/pautavindo_ep018.mp3"
+          length="0"
+          type="audio/mpeg" />
+          
+        <itunes:image href="https://pautavindo.com/thumb_ep018.png" />
+
+        <guid isPermaLink="false">pautavindo-ep018</guid>
+        <pubDate>Wed, 27 May 2026 13:00:00 GMT</pubDate>
+      </item>
+
+
   </channel>
 </rss>
 
